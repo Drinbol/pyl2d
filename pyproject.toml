@@ -1,0 +1,10 @@
+[project]
+name = "pyl2d"
+version = "0.1.0"
+description = "Live2D 纹理重绘工作流：UV提取/姿态渲染/反向映射/差异对比"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "glfw>=2.10.0",
+    "psd-tools>=1.12.1",
+]

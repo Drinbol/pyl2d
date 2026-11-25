@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv
+
+# 修改版 live2d-py（独立仓库：Drinbol/live2d-py）
+live2d-py/
+
+# 模型素材与测试图（私有，不入库）
+work/
+*.psd
+aaa.png
+aaa2.png
+test_gl.png
+ref.psd
+
+# Env & IDE
+.env
+.idea/
+.vscode/
+*:Zone.Identifier
